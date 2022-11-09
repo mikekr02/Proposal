@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+pong
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+a game called pong where a player plays against the cpu. the goal is to get the ball past the other players paddle. First to 11 wins.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+pong but everytime the player scores a point, the ball moves faster. score is kept at top of screen for each player. each time player (not cpu) scores, ball moves a little faster. first to 11 wins. The user will be able to control the paddle with arrow keys. The cpu will follow a certain strategy the whole game. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+N/A
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+setting up score count, and creating paddles and ball
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+have the user be able to move their paddle with the arrow keys. have the ball be able to bounce off paddles. CPU follows a certain strategy.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+Full game of pong but every time the user scores, the ball moves a little bit faster every time. Score will update for the appropriate player when the ball goes past the paddle. User will be able to control the paddle with the arrow keys. Ball will bounce off the paddle in the appropriate way depending on the angle that the ball hits the paddle. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I will need to research how to get the program to work in real time. Since I'm making a game using the arrow keys, I need to figure out how to convert the pressing of an arrow key into python code. The arrow keys will control the paddles in the live game. I will need to research how to get the program to know to raise the score for the appropriate player when the ball goes past a paddle. I will need to research how to get the ball to move in real time, and how to get the ball to move a certain way depending on the angle the ball hits the paddle. I will need to research how to get the ball to move faster every time the player scores. Most of this is getting to know how to have the user interact with the program using the arrow keys in real time. 
